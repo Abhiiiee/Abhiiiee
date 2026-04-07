@@ -1,16 +1,19 @@
-## Hi there 👋
+Hiie, I'm Abhishek 👋
 
-<!--
-**Abhiiiee/Abhiiiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Frontend Developer  
 
-Here are some ideas to get you started:
+🚀 Skills
+- HTML, CSS, JavaScript  
+- Bootstrap  
+- Git & GitHub  
+- UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects
+- E-commerce Website (Frontend)  
+- PixShot Photo Gallery  
+- Netflix Clone  
+- Marketplace
+
+📫 Contact
+Email: hello.abhiiiee@gmail.com 👋
